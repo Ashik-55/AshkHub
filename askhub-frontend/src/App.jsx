@@ -5,7 +5,7 @@ import Home from "./pages/Home.jsx";
 function App() {
     return (
         <>
-        <div class="bg-neutral-primary flex flex-col">
+        <div className="bg-neutral-primary flex flex-col">
             <NavigationBar/>
             <CreatePost/>
         </div>
